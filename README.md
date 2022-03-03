@@ -1,4 +1,4 @@
-In this personal project, I am building a genetic algorithm that will evolve an
+In this personal project, I am building a genetic algorithm that will evolve a
 programme that effectively / efficiently completes a designated task.
 
 The task is to go around a grid picking up 'cans' that are in some spaces but not
