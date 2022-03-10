@@ -6,19 +6,19 @@ The task is to go around a grid picking up 'cans' that are in some spaces but no
 others, without crashing into the walls at the edge of the grid, or wasting time
 trying to pick up cans on spaces where there are none.
 
-The process of evolution happens by initiating a population of random programmes,
+The process of evolution happens by initiating a population of random programs,
 testing them on a set of randomly generated grids with cans (using a scoring
-system to generate comparable scores), selecting a new generation of programmes
+system to generate comparable scores), selecting a new generation of programs
 using a combination of survival of the fittest, breeding among the fittest,
 and some random mutations, and repeating for a number of generations.
 
 Over a significant number of generations, the population should become better at
-completing the task. Eventually it may generate a programme that is better at the
+completing the task. Eventually it may generate a program that is better at the
 task than an intuitive human strategy.
 
-The selection process involves coding 'genes' for each of the programmes, which
-facilitate the breeding between pairs and the random mutation. Hence why this is a
-'genetic' algorithm.
+The selection process involves coding 'genes' for each of the programs, which can
+be spliced to allow breeding between pairs and which can be randomly mutated.
+Hence why this is a 'genetic' algorithm.
 
 *Acknowledgement and inspiration for this project*
 This personal project is based on Melanie Mitchell's Robby the Robot, in her
@@ -48,8 +48,8 @@ That's why I have started coding this in Ruby, as this is the coding language
 that I am currently learning. I appreciate that means my project is likely to
 run significantly less efficiently than if it was optimised with a more
 efficient language (putting aside the inefficiencies of novice code!) I expect
-to consider the efficiency of the programme as part of my learning
-curve, as this programme is going to take a fair amount of processing.
+to consider the efficiency of the algorithm as part of my learning
+curve, as this algorithm is going to take a fair amount of processing.
 
 I will be adding to this README and the comments in the various scripts as I
 go along, to dig deeper into how I'm building the algorithm.
