@@ -1,4 +1,5 @@
 *About this project*
+
 In this personal project, I am building a genetic algorithm that will evolve an
 programme that effectively / efficiently completes a designated task.
 
@@ -21,6 +22,7 @@ be spliced to allow breeding between pairs and which can be randomly mutated.
 Hence why this is a 'genetic' algorithm.
 
 *Acknowledgement and inspiration for this project*
+
 This personal project is based on Melanie Mitchell's Robby the Robot, in her
 book Complexity: a Guided Tour, which also features in her Introduction to
 Complexity course on Sante Fe Institute's Complexity Explorer. Melanie Mitchell
@@ -32,10 +34,10 @@ the fundementals of complexity scie*nce, in diverse fields of biology, economics
 physics, computer science and social sciences.
 
 Robby the Robot is itself inspired by by [Herbert, the Soda Can Collecting Robot
-that wandered the halls of MIT in the late 80s](http://cyberneticzoo.com/cyberneticanimals/
-1986c-herbert-the-collection-machine-brooks-connell-ning-american/).
+that wandered the halls of MIT in the late 80s](http://cyberneticzoo.com/cyberneticanimals/1986c-herbert-the-collection-machine-brooks-connell-ning-american/).
 
 *Find out more about genetic algorithms and genetic programming*
+
 For a fun example of what genetic algorithms and genetic programming can do,
 check out the work of Karl Sims. Here's a video of his evolving virtual
 creatures: https://www.youtube.com/watch?v=JBgG_VSP7f8.
