@@ -1,4 +1,4 @@
-## About this project
+## **About this project**
 
 In this personal project, I am building a genetic algorithm that will evolve an
 programme that effectively / efficiently completes a designated task.
@@ -21,7 +21,7 @@ The selection process involves coding 'genes' for each of the programs, which ca
 be spliced to allow breeding between pairs and which can be randomly mutated.
 Hence why this is a 'genetic' algorithm.
 
-## Acknowledgement and inspiration for this project
+## **Acknowledgement and inspiration for this project**
 
 This personal project is based on Melanie Mitchell's Robby the Robot, in her
 book Complexity: a Guided Tour, which also features in her Introduction to
@@ -36,7 +36,7 @@ physics, computer science and social sciences.
 Robby the Robot is itself inspired by [Herbert, the Soda Can Collecting Robot
 that wandered the halls of MIT in the late 80s](http://cyberneticzoo.com/cyberneticanimals/1986c-herbert-the-collection-machine-brooks-connell-ning-american/).
 
-## Find out more about genetic algorithms and genetic programming
+## **Find out more about genetic algorithms and genetic programming**
 
 For a fun example of what genetic algorithms and genetic programming can do,
 check out the work of Karl Sims. [Here's a video of his evolving virtual
@@ -44,7 +44,7 @@ creatures](https://www.youtube.com/watch?v=JBgG_VSP7f8).
 
 For current research on adaptive computation, [see Stephanie Forrest's work](https://forrest.biodesign.asu.edu/index.html).
 
-## About the quality of my coding
+## **About the quality of my coding**
 
 I am a coding novice, and this project is a chance for me to learn to code.
 That's why I have started coding this in Ruby, as this is the coding language
